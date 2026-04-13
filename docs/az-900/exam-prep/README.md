@@ -34,6 +34,36 @@ The goal is to combine:
 
 ---
 
+#### 📄 [Exam Simulation 03](exam-simulation-03.md)
+- Mixed-difficulty simulation
+- Reinforces:
+  - architecture and services
+  - governance
+  - identity and security
+- Good for consolidating weak areas
+
+---
+
+#### 📄 [Exam Simulation 04](exam-simulation-04.md)
+- Exam-style practice set
+- Emphasis on:
+  - realistic question wording
+  - service distinctions
+  - decision-making under pressure
+- Useful before a timed review session
+
+---
+
+#### 📄 [Exam Simulation 05](exam-simulation-05.md)
+- Final review simulation
+- Best used for:
+  - last-pass validation
+  - confidence check
+  - identifying final knowledge gaps
+- Ideal shortly before the real exam
+
+---
+
 ### ⚠️ Exam Traps
 
 #### 📄 [Exam Traps & Patterns](exam-traps.md)
@@ -52,6 +82,9 @@ The goal is to combine:
 ### Step 1 – Practice
 - Start with **[Exam Simulation 01](exam-simulation-01.md)**
 - Then move to **[Exam Simulation 02](exam-simulation-02.md)**
+- Continue with **[Exam Simulation 03](exam-simulation-03.md)**
+- Use **[Exam Simulation 04](exam-simulation-04.md)** as timed practice
+- Finish with **[Exam Simulation 05](exam-simulation-05.md)** for final review
 
 ---
 

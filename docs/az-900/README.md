@@ -59,6 +59,9 @@ Includes:
 
 - 📄 [Exam Simulation 01](exam-prep/exam-simulation-01.md)
 - 📄 [Exam Simulation 02](exam-prep/exam-simulation-02.md)
+- 📄 [Exam Simulation 03](exam-prep/exam-simulation-03.md)
+- 📄 [Exam Simulation 04](exam-prep/exam-simulation-04.md)
+- 📄 [Exam Simulation 05](exam-prep/exam-simulation-05.md)
 - ⚠️ [Exam Traps & Patterns](exam-prep/exam-traps.md)
 
 👉 Focus: thinking like in the real exam
