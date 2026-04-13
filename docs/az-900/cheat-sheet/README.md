@@ -3,6 +3,7 @@
 ## ☁️ Cloud Concepts
 
 ### Benefits of Cloud
+
 - High Availability
 - Scalability
 - Elasticity
@@ -24,15 +25,18 @@
 ## 🏗️ Cloud Models
 
 ### IaaS
+
 - You manage OS & apps
 - Example: Virtual Machines
 
 ### PaaS
+
 - Azure manages OS
 - You deploy apps
 - Example: App Service, Azure SQL
 
 ### SaaS
+
 - Fully managed
 - Example: Microsoft 365
 
@@ -76,10 +80,12 @@
 ## ⚙️ Scaling Concepts
 
 ### Scalability
+
 - Scale UP → more power (CPU/RAM)
 - Scale OUT → more instances
 
 ### Elasticity
+
 - Auto scale based on demand
 
 ---
