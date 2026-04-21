@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Docs
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Folders

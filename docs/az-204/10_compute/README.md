@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Compute
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Folders

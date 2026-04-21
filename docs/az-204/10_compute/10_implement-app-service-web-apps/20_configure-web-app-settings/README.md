@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Configure Web App Settings
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files

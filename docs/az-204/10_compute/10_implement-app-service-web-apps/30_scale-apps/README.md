@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Scale Apps
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files

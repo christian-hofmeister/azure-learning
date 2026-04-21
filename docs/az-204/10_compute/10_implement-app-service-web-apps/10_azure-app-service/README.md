@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Azure App Service
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files

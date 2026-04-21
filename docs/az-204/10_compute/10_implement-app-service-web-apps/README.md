@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Implement App Service Web Apps
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Folders

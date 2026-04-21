@@ -1,7 +1,5 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# General
-
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files

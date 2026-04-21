@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# Labs
+# AZ-900 Labs
 
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
