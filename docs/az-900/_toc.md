@@ -1,19 +1,13 @@
-# Az 900 Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Folders
 
-- [Overview](00_overview/_toc.md)
-- [Introduction To Cloud Infrastructure](10_introduction_to_cloud_infrastructure/_toc.md)
-- [Identity Access Security](15_identity_access-security/_toc.md)
-- [Benefits Of Using Cloud Services](20_benefits_of_using_cloud_services/_toc.md)
-- [Cloud Service Types](30_cloud_service_types/_toc.md)
-- [Cheat Sheet](cheat-sheet/_toc.md)
-- [Exam Prep](exam-prep/_toc.md)
-- [Labs](labs/_toc.md)
+- [Overview](00_overview/README.md)
+- [Introduction To Cloud Infrastructure](10_introduction_to_cloud_infrastructure/README.md)
+- [Identity Access Security](15_identity_access-security/README.md)
+- [Benefits Of Using Cloud Services](20_benefits_of_using_cloud_services/README.md)
+- [Cloud Service Types](30_cloud_service_types/README.md)
+- [Cheat Sheet](cheat-sheet/README.md)
+- [Exam Prep](exam-prep/README.md)
+- [Labs](labs/README.md)
 
 ## Markdown Files
 

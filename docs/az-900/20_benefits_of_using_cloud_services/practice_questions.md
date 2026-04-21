@@ -139,10 +139,3 @@ Understand:
 * Benefits vs features
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Benefits of Using Cloud Services](README.md)
-- [Cheat Sheet](cheat_sheet.md)
-- [Last-Minute Cheat Sheet](cheat_sheet_last_minute.md)
-- [AZ-900 Home](../README.md)

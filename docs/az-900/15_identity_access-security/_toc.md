@@ -1,9 +1,3 @@
-# Identity Access Security Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Azure Directory Services](10_azure_directory_services.md)

@@ -1,9 +1,3 @@
-# Monitoring Tools In Azure Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Azure Advisor](10_azure_advisor.md)

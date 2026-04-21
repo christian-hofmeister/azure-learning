@@ -1,9 +1,3 @@
-# Azure Storage Services Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Azure Storage Accounts](10_azure_storage_accounts.md)

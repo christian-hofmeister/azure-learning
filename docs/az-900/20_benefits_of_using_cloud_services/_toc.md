@@ -1,9 +1,3 @@
-# Benefits Of Using Cloud Services Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Benefits Of High Availability And Scalability In The Cloud](10_benefits_of_high_availability_and_scalability_in_the_cloud.md)

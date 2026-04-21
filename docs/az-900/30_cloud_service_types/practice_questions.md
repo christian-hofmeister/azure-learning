@@ -139,10 +139,3 @@ Always ask:
 * How much control is required?
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Cloud Service Types](README.md)
-- [Cheat Sheet](cheat_sheet.md)
-- [Last-Minute Cheat Sheet](cheat_sheet_last_minute.md)
-- [AZ-900 Home](../README.md)

@@ -1,15 +1,9 @@
-# Introduction To Cloud Infrastructure Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Folders
 
-- [Cloud Concepts](10_cloud_concepts/_toc.md)
-- [Azure Architecture And Services](20_azure_architecture_and_services/_toc.md)
-- [Azure Management And Governance](30_azure_management_and_governance/_toc.md)
-- [Tools And Deployment](40_tools_and_deployment/_toc.md)
+- [Cloud Concepts](10_cloud_concepts/README.md)
+- [Azure Architecture And Services](20_azure_architecture_and_services/README.md)
+- [Azure Management And Governance](30_azure_management_and_governance/README.md)
+- [Tools And Deployment](40_tools_and_deployment/README.md)
 
 ## Markdown Files
 

@@ -126,12 +126,3 @@ Always identify:
 That determines the correct answer.
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Cloud Service Types](README.md)
-- [Infrastructure as a Service (IaaS)](10_infrastructure_as_a_service.md)
-- [Platform as a Service (PaaS)](20_platform_as_a_service.md)
-- [Software as a Service (SaaS)](30_software_as_a_service.md)
-- [Last-Minute Cheat Sheet](cheat_sheet_last_minute.md)
-- [AZ-900 Home](../README.md)

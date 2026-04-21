@@ -1,9 +1,3 @@
-# Core Architectural Components Of Azure Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [What Is Microsoft Azure](10_what_is_microsoft_azure.md)

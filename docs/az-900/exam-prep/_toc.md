@@ -1,9 +1,3 @@
-# Exam Prep Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Exam Simulation 01](exam-simulation-01.md)

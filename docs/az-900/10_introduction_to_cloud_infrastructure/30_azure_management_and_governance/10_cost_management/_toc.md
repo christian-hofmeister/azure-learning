@@ -1,9 +1,3 @@
-# Cost Management Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Cost Management In Azure](10_cost_management_in_azure.md)

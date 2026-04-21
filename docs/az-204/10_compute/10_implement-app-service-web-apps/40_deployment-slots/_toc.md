@@ -1,7 +1,3 @@
-# Deployment Slots Navigation
+## Markdown Files
 
-## Navigation
-
-- [Up](../_toc.md)
-
-_No content found._
+- [](README.md)

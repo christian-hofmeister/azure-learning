@@ -1,12 +1,6 @@
-# Cloud Concepts Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Folders
 
-- [Images](images/_toc.md)
+- [Images](images/README.md)
 
 ## Markdown Files
 

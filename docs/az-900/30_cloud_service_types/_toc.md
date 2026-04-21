@@ -1,9 +1,3 @@
-# Cloud Service Types Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Infrastructure As A Service](10_infrastructure_as_a_service.md)

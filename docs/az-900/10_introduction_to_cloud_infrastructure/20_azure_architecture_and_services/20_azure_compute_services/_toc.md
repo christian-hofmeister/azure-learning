@@ -1,9 +1,3 @@
-# Azure Compute Services Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Azure Virtual Machines](10_azure_virtual_machines.md)

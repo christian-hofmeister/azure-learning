@@ -1,9 +1,3 @@
-# Azure Networking Services Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Azure Virtual Networking](10_azure_virtual_networking.md)

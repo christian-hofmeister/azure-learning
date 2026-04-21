@@ -122,12 +122,3 @@ Multiple layers of security:
 * Combine multiple security layers
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Identity, Access & Security](README.md)
-- [Authentication Methods](20_azure_authentication_methods.md)
-- [Conditional Access](40_azure_conditional_access.md)
-- [Practice Questions](practice_questions.md)
-- [Last-Minute Cheat Sheet](cheat_sheet_last_minute.md)
-- [AZ-900 Home](../README.md)

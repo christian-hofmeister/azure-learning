@@ -1,9 +1,3 @@
-# Governance And Compliance Navigation
-
-## Navigation
-
-- [Up](../_toc.md)
-
 ## Markdown Files
 
 - [Microsoft Purview](10_microsoft_purview.md)

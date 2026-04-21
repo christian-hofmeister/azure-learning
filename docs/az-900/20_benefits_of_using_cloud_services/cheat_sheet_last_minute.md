@@ -57,11 +57,3 @@ Think in benefits:
 > Why is cloud better than on-prem?
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Benefits of Using Cloud Services](README.md)
-- [High Availability and Scalability](10_benefits_of_high_availability_and_scalability_in_the_cloud.md)
-- [Security and Governance Benefits](30_benefits_of_security_and_governance_in_the_cloud.md)
-- [Sustainability Considerations](50_sustainability_considerations_in_the_cloud.md)
-- [AZ-900 Home](../README.md)

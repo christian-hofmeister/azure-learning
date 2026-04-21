@@ -39,11 +39,3 @@ Think:
 > "Who manages what?"
 
 ---
-
-## 🧭 Navigation
-
-- [Back to Cloud Service Types](README.md)
-- [Infrastructure as a Service (IaaS)](10_infrastructure_as_a_service.md)
-- [Platform as a Service (PaaS)](20_platform_as_a_service.md)
-- [Software as a Service (SaaS)](30_software_as_a_service.md)
-- [AZ-900 Home](../README.md)
