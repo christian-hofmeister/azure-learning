@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "docs:toc": "node scripts/generate-docs-toc.js"
+  }
+}
