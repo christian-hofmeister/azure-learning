@@ -1,3 +1,5 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 ## Folders
 
 - [Overview](00_overview/README.md)
@@ -12,4 +14,3 @@
 ## Markdown Files
 
 - [One Pager](one_pager.md)
-- [](README.md)

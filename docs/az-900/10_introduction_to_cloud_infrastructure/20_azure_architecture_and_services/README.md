@@ -1,4 +1,8 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 # Azure Architecture And Services
+
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Folders
 
@@ -6,7 +10,3 @@
 - [Azure Compute Services](20_azure_compute_services/README.md)
 - [Azure Networking Services](30_azure_networking_services/README.md)
 - [Azure Storage Services](40_azure_storage_services/README.md)
-
-## Markdown Files
-
-- [](README.md)

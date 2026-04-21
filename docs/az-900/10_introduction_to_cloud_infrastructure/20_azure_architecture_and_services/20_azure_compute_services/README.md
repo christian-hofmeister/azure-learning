@@ -1,4 +1,8 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 # Azure Compute Services
+
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files
 
@@ -8,4 +12,3 @@
 - [Azure Functions](40_azure_functions.md)
 - [Azure Ai Ml Iot Edge Services](50_azure_ai_ml_iot_edge_services.md)
 - [Azure Application Hosting Options](60_azure_application_hosting_options.md)
-- [](README.md)

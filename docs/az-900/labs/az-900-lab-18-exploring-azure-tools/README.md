@@ -1,5 +1,7 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 # Az 900 Lab 18 Exploring Azure Tools
 
-## Markdown Files
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-- [](README.md)
+_No content found._

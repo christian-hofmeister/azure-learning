@@ -1,3 +1,5 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 ## Markdown Files
 
 - [Azure Directory Services](10_azure_directory_services.md)
@@ -13,4 +15,3 @@
 - [Cheat Sheet Last Minute](cheat_sheet_last_minute.md)
 - [Cheat Sheet](cheat_sheet.md)
 - [Practice Questions](practice_questions.md)
-- [](README.md)

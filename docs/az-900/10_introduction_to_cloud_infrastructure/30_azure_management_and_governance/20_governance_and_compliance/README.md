@@ -1,4 +1,8 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 # Governance And Compliance
+
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
 ## Markdown Files
 
@@ -7,4 +11,3 @@
 - [Purpose Of Resource Locks](30_purpose_of_resource_locks.md)
 - [Purpose Of The Service Trust Portal](40_purpose_of_the_service_trust_portal.md)
 - [Comparison Cheat Sheet](50_comparison_cheat_sheet.md)
-- [](README.md)

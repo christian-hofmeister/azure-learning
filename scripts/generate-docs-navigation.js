@@ -3,8 +3,14 @@ const path = require("path");
 
 const docsDir = path.resolve(process.cwd(), "docs");
 const tocFileName = "_toc.md";
-const readmeSourceFileName = "README.md.src";
+const readmeSourceFileName = "README.src.md";
 const readmeOutputFileName = "README.md";
+
+const ignoredDirectoryNames = new Set([
+  "images",
+  "img",
+  "assets"
+]);
 
 function sortByName(entries) {
   return [...entries].sort((a, b) =>
@@ -28,11 +34,16 @@ function getRelativePath(fromDir, toPath) {
   return path.relative(fromDir, toPath).replace(/\\/g, "/");
 }
 
+function shouldIgnoreDirectory(dirName) {
+  return ignoredDirectoryNames.has(dirName.toLowerCase());
+}
+
 function shouldIgnoreMarkdownFile(name) {
   const lower = name.toLowerCase();
   return (
     lower === tocFileName.toLowerCase() ||
-    lower === readmeSourceFileName.toLowerCase()
+    lower === readmeSourceFileName.toLowerCase() ||
+    lower === readmeOutputFileName.toLowerCase()
   );
 }
 
@@ -43,7 +54,9 @@ function getDirectoryEntries(dirPath) {
 function generateTocForDirectory(dirPath) {
   const entries = getDirectoryEntries(dirPath);
 
-  const directories = entries.filter((entry) => entry.isDirectory());
+  const directories = entries.filter(
+    (entry) => entry.isDirectory() && !shouldIgnoreDirectory(entry.name)
+  );
 
   const markdownFiles = entries.filter(
     (entry) =>
@@ -52,7 +65,10 @@ function generateTocForDirectory(dirPath) {
       !shouldIgnoreMarkdownFile(entry.name)
   );
 
-  const lines = [];
+  const lines = [
+    "<!-- AUTO-GENERATED FILE - DO NOT EDIT -->",
+    ""
+  ];
 
   if (directories.length > 0) {
     lines.push("## Folders", "");
@@ -76,7 +92,7 @@ function generateTocForDirectory(dirPath) {
     lines.push("");
   }
 
-  if (lines.length === 0) {
+  if (directories.length === 0 && markdownFiles.length === 0) {
     lines.push("_No content found._", "");
   }
 
@@ -94,7 +110,9 @@ function resolveIncludes(content, currentDir, stack = []) {
     const includePath = path.resolve(currentDir, includeTarget);
 
     if (stack.includes(includePath)) {
-      const chain = [...stack, includePath].map((p) => path.basename(p)).join(" -> ");
+      const chain = [...stack, includePath]
+        .map((p) => path.basename(p))
+        .join(" -> ");
       return `> Include cycle detected: ${chain}`;
     }
 
@@ -103,7 +121,11 @@ function resolveIncludes(content, currentDir, stack = []) {
     }
 
     const includedContent = fs.readFileSync(includePath, "utf8");
-    return resolveIncludes(includedContent, path.dirname(includePath), [...stack, includePath]);
+    return resolveIncludes(
+      includedContent,
+      path.dirname(includePath),
+      [...stack, includePath]
+    );
   });
 }
 
@@ -111,17 +133,24 @@ function buildReadmeForDirectory(dirPath) {
   const sourcePath = path.join(dirPath, readmeSourceFileName);
   const outputPath = path.join(dirPath, readmeOutputFileName);
 
+  const generatedHeader = "<!-- AUTO-GENERATED FILE - DO NOT EDIT -->\n\n";
+
   if (fs.existsSync(sourcePath)) {
     const sourceContent = fs.readFileSync(sourcePath, "utf8");
     const resolvedContent = resolveIncludes(sourceContent, dirPath);
-    fs.writeFileSync(outputPath, resolvedContent, "utf8");
+    fs.writeFileSync(outputPath, generatedHeader + resolvedContent, "utf8");
     console.log(`Generated README from source: ${outputPath}`);
     return;
   }
 
   const tocPath = path.join(dirPath, tocFileName);
 
-  let fallbackLines = [`# ${formatName(path.basename(dirPath)) || "Docs"}`, ""];
+  const fallbackLines = [
+    "<!-- AUTO-GENERATED FILE - DO NOT EDIT -->",
+    "",
+    `# ${formatName(path.basename(dirPath)) || "Docs"}`,
+    ""
+  ];
 
   if (fs.existsSync(tocPath)) {
     const tocContent = fs.readFileSync(tocPath, "utf8");
@@ -136,7 +165,10 @@ function buildReadmeForDirectory(dirPath) {
 
 function processDirectoryRecursively(dirPath) {
   const entries = getDirectoryEntries(dirPath);
-  const directories = entries.filter((entry) => entry.isDirectory());
+
+  const directories = entries.filter(
+    (entry) => entry.isDirectory() && !shouldIgnoreDirectory(entry.name)
+  );
 
   for (const dir of directories) {
     processDirectoryRecursively(path.join(dirPath, dir.name));

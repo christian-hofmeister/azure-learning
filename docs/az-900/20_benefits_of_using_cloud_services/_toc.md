@@ -1,3 +1,5 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 ## Markdown Files
 
 - [Benefits Of High Availability And Scalability In The Cloud](10_benefits_of_high_availability_and_scalability_in_the_cloud.md)
@@ -8,4 +10,3 @@
 - [Cheat Sheet Last Minute](cheat_sheet_last_minute.md)
 - [Cheat Sheet](cheat_sheet.md)
 - [Practice Questions](practice_questions.md)
-- [](README.md)

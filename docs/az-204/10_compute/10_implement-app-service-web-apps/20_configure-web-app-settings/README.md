@@ -1,3 +1,9 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
+# Configure Web App Settings
+
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 ## Markdown Files
 
 - [Notes](10_notes.md)
@@ -6,4 +12,3 @@
 - [Exam Elite Mode](40_exam-elite-mode.md)
 - [Exam Case Study](50_exam-case-study.md)
 - [Exam Final Boss](60_exam-final-boss.md)
-- [](README.md)

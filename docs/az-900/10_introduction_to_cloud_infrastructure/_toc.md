@@ -1,3 +1,5 @@
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
 ## Folders
 
 - [Cloud Concepts](10_cloud_concepts/README.md)
@@ -10,4 +12,3 @@
 - [Cheat Sheet Last Minute](cheat_sheet_last_minute.md)
 - [Cheat Sheet](cheat_sheet.md)
 - [Practice Questions](practice_questions.md)
-- [](README.md)
