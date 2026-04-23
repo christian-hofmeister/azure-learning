@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
-# AZ-900 Labs
+# Labs
 
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
@@ -24,3 +24,7 @@
 - [Az 900 Lab 16 Implement Resource Tagging](az-900-lab-16-implement-resource-tagging/README.md)
 - [Az 900 Lab 17 Create An Azure Policy](az-900-lab-17-create-an-azure-policy/README.md)
 - [Az 900 Lab 18 Exploring Azure Tools](az-900-lab-18-exploring-azure-tools/README.md)
+
+## Markdown Files
+
+- [](README.src.md)
