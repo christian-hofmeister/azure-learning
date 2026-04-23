@@ -10,4 +10,3 @@
 - [Cheat Sheet Last Minute](cheat_sheet_last_minute.md)
 - [Cheat Sheet](cheat_sheet.md)
 - [Practice Questions](practice_questions.md)
-- [](README.src.md)
