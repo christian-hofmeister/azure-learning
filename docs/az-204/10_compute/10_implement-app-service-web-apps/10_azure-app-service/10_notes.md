@@ -29,6 +29,32 @@ Defines:
 - Multiple apps can share one App Service Plan
 - All apps in the same plan share the same resources
 
+### 🧱 Service Plan Tiers Overview
+
+| Tier             | Compute Type     | Scaling            | Key Features            |
+| ---------------- | ---------------- | ------------------ | ----------------------- |
+| Free (F1)        | Shared           | ❌ None             | Dev/Test only           |
+| Shared (D1)      | Shared           | ❌ None             | Low-cost, shared infra  |
+| Basic (B1–B3)    | Dedicated        | ✅ Manual scale-out | Custom domain           |
+| Standard (S1–S3) | Dedicated        | ✅ Autoscale        | Deployment slots        |
+| Premium (P*)     | Dedicated        | ✅ Autoscale        | More scale, better perf |
+| Isolated (ASE)   | Dedicated (VNet) | ✅ Massive scale    | Full network isolation  |
+
+
+---
+### 🔑 Feature Matrix (VERY EXAM RELEVANT)
+
+| Feature              | Free/Shared | Basic | Standard   | Premium | Isolated |
+| -------------------- | ----------- | ----- | ---------- | ------- | -------- |
+| Custom domain        | ❌           | ✅     | ✅          | ✅       | ✅        |
+| SSL                  | ❌           | ✅     | ✅          | ✅       | ✅        |
+| Manual scale-out     | ❌           | ✅     | ✅          | ✅       | ✅        |
+| **Autoscale**        | ❌           | ❌     | ✅          | ✅       | ✅        |
+| **Deployment slots** | ❌           | ❌     | ✅          | ✅       | ✅        |
+| Backup/restore       | ❌           | ❌     | ✅          | ✅       | ✅        |
+| VNet integration     | ❌           | ❌     | ⚠️ Limited | ✅       | ✅        |
+| High scaling limits  | ❌           | ❌     | ⚠️ Medium  | ✅       | ✅        |
+
 ---
 
 ## App Service Plan Tiers

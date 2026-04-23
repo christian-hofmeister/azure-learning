@@ -42,6 +42,14 @@ Scaling helps to:
 
 ---
 
+### 👉 Scaling 
+
+
+- Manual scale-out	starts with Tier: Basic
+- Autoscale	starts with Tier  Standard 
+
+---
+
 ### 🔹 Key Points (Exam!)
 
 - Scaling happens at **App Service Plan level**

@@ -3,7 +3,7 @@ const path = require("path");
 
 const docsDir = path.resolve(process.cwd(), "docs");
 const tocFileName = "_toc.md";
-const readmeSourceFileName = "README.md.src";
+const readmeSourceFileName = "README.src.md";
 const readmeOutputFileName = "README.md";
 
 const ignoredDirectoryNames = new Set([
