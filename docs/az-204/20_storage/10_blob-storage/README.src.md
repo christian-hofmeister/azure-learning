@@ -1,3 +1,5 @@
+<!-- include:_toc.md -->
+
 # Azure Blob Storage (AZ-204)
 
 This section covers Azure Blob Storage fundamentals, lifecycle management, and development using the .NET SDK.
@@ -40,3 +42,5 @@ This section covers Azure Blob Storage fundamentals, lifecycle management, and d
 ## 🧠 Summary (Exam Focus)
 
 👉 `blob-storage-summary.md`
+
+<!-- include:_toc.md -->

@@ -1,3 +1,8 @@
+---
+
+<!-- include:_toc.md -->
+
+---
 # Explore Azure Blob Storage – Notes
 
 ## What is Blob Storage?
@@ -80,3 +85,9 @@ Storage Account
 
   * Microsoft-managed keys
   * Customer-managed keys
+
+---
+
+<!-- include:_toc.md -->
+
+---

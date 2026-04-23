@@ -1,5 +1,14 @@
 <!-- AUTO-GENERATED FILE - DO NOT EDIT -->
 
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
+## Folders
+
+- [Explore Blob Storage](10_explore-blob-storage/README.md)
+- [Blob Lifecycle](20_blob-lifecycle/README.md)
+- [Work With Blob Storage](30_work-with-blob-storage/README.md)
+
+
 # Azure Blob Storage (AZ-204)
 
 This section covers Azure Blob Storage fundamentals, lifecycle management, and development using the .NET SDK.
@@ -42,3 +51,11 @@ This section covers Azure Blob Storage fundamentals, lifecycle management, and d
 ## 🧠 Summary (Exam Focus)
 
 👉 `blob-storage-summary.md`
+
+<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
+
+## Folders
+
+- [Explore Blob Storage](10_explore-blob-storage/README.md)
+- [Blob Lifecycle](20_blob-lifecycle/README.md)
+- [Work With Blob Storage](30_work-with-blob-storage/README.md)

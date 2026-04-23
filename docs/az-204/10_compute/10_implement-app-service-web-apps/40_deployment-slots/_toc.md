@@ -2,6 +2,5 @@
 
 ## Markdown Files
 
-- [Notes](10_notes.md)
 - [Cheat Sheet](20_cheat-sheet.md)
 - [Exam Slots](30_exam-slots.md)

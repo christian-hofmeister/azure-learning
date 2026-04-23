@@ -1,3 +1,5 @@
+<!-- include:_toc.md -->
+---
 # Azure Functions – Notes (AZ-204)
 
 ## 📌 Overview
@@ -223,3 +225,7 @@ Options:
 - Choose hosting plan carefully
 - Use bindings to simplify integrations
 - Understand scaling behavior (very exam relevant)
+
+---
+<!-- include:_toc.md -->
+---
