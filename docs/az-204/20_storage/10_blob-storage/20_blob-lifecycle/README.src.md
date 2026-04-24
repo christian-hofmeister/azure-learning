@@ -1,3 +1,9 @@
+---
+
+<!-- include:_toc.md -->
+
+---
+
 # Blob Lifecycle Management – Notes
 
 ## Storage Tiers
@@ -50,3 +56,10 @@
 
 * Cost optimization
 * Data retention strategies
+
+
+---
+
+<!-- include:_toc.md -->
+
+---
