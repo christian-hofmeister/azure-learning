@@ -1,3 +1,9 @@
+---
+
+<!-- include:_toc.md -->
+
+---
+
 # Work with Azure Blob Storage – Notes
 
 ## .NET Client Library
@@ -71,3 +77,10 @@ await blob.SetMetadataAsync(new Dictionary<string, string>
   * PUT
   * GET
   * DELETE
+
+
+---
+
+<!-- include:_toc.md -->
+
+---
