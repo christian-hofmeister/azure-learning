@@ -8,6 +8,7 @@
 
 - [Cheat Sheet](10_cheat-sheet.md)
 - [Exam Realistic](20_exam-realistic.md)
+- [Exam Traps](30_exam-traps.md)
 
 
 ---
@@ -230,6 +231,7 @@ Run **inside Cosmos DB (server-side, JavaScript)**
 
 - [Cheat Sheet](10_cheat-sheet.md)
 - [Exam Realistic](20_exam-realistic.md)
+- [Exam Traps](30_exam-traps.md)
 
 
 ---
