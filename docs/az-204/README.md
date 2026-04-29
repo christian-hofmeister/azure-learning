@@ -7,4 +7,3 @@
 - [Compute](10_compute/README.md)
 - [Storage](20_storage/README.md)
 - [Data](30_data/README.md)
-- [Containers](40_containers/README.md)
