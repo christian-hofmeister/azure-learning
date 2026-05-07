@@ -1,13 +1,6 @@
-<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
-
 ---
 
-<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
-
-## Markdown Files
-
-- [Cheat Sheet](10_cheat-sheet.md)
-
+<!-- include:_toc.md -->
 
 ---
 
@@ -737,11 +730,6 @@ These are highly exam-relevant for AZ-204.
 
 ---
 
-<!-- AUTO-GENERATED FILE - DO NOT EDIT -->
-
-## Markdown Files
-
-- [Cheat Sheet](10_cheat-sheet.md)
-
+<!-- include:_toc.md -->
 
 ---
