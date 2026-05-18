@@ -10,3 +10,4 @@
 - [Event Grid](60_event-grid/README.md)
 - [Event Hub](70_event-hub/README.md)
 - [Message Queues](80_message-queues/README.md)
+- [Application Insights](90_application-insights/README.md)
