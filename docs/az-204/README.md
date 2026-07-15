@@ -13,3 +13,7 @@
 - [Event Hub](70_event-hub/README.md)
 - [Message Queues](80_message-queues/README.md)
 - [Application Insights](90_application-insights/README.md)
+
+## Markdown Files
+
+- [Azure Hosting Plans Overview](azure-hosting-plans-overview.md)
