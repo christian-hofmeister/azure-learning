@@ -14,4 +14,4 @@
 
 ## Markdown Files
 
-- [Azure Hosting Plans Overview](azure-hosting-plans-overview.md)
+- [Azure Hosting Services Overview](azure-hosting-services-overview.md)
